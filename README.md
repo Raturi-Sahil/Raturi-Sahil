@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raturi-sahil&label=Profile%20views&color=0e75b6&style=flat" alt="raturi-sahil" /> </p>
 
-<p align="left"> <a href="https://github.com/Raturi-Sahil"><img src="https://github-profile-trophy.vercel.app/?username=raturi-sahil" alt="raturi-sahil" /></a> </p>
+<p align="left"> <a href="https://github.com/Raturi-Sahil"><img width="1212" height="3" alt="image" src="https://github.com/user-attachments/assets/b327f7e3-3517-4355-b7b2-32d870f7f8e5" />
+</a> </p>
 
 - 🔭 I’m currently working on [Travel Buddy](https://github.com/Raturi-Sahil/TravelBuddy_2.0)
 
