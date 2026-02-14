@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sahilraturi687@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/19M26_-UxsMX6TCQeWvIO6W-2WT53xAi6/view?usp=drive_link](https://drive.google.com/file/d/19M26_-UxsMX6TCQeWvIO6W-2WT53xAi6/view?usp=drive_link)](https://drive.google.com/file/d/1y0eZC-RdEbMZRUMRwm0cPAp9Yy67v3z1/view)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1y0eZC-RdEbMZRUMRwm0cPAp9Yy67v3z1/view)
 
 - ⚡ Fun fact **I break things to understand how they work.**
 
