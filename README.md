@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raturi-sahil&label=Profile%20views&color=0e75b6&style=flat" alt="raturi-sahil" /> </p>
 
-<p align="left"> <a href="https://github.com/Raturi-Sahil"><img width="1212" height="3" alt="image" src="https://twemoji.maxcdn.com/v/latest/72x72/1f9d1-200d-1f4bb.png
+<p align="left"> <a href="https://github.com/Raturi-Sahil"><img width="1212" height="1212" alt="image" src="https://twemoji.maxcdn.com/v/latest/72x72/1f9d1-200d-1f4bb.png
 " />
 </a> </p>
 
