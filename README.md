@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on [Travel Buddy](https://github.com/Raturi-Sahil/TravelBuddy_2.0)
 
-- 🌱 I’m currently learning **I’m currently learning Full Stack Web Development Using MERN STACK & Data Structures in C++**
+- 🌱 I’m currently learning **Full Stack Web Development Using MERN STACK & Data Structures in C++**
 
 - 📫 How to reach me **sahilraturi687@gmail.com**
 
